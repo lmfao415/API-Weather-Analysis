@@ -11,7 +11,8 @@ Latitude vs. Cloudiness,
 Latitude vs. Wind Speed,
 
 For example, here is the plot showing temperature versus latitude:
-![sample](https://github.com/lmfao415/Python-API-Challenge/blob/main/WeatherPy/output_data/Lat_vs_Temp.png?raw=true) Jupyter Notebook
+
+![sample](https://github.com/lmfao415/Python-API-Challenge/blob/main/WeatherPy/output_data/Lat_vs_Temp.png?raw=true) 
 Linear regression was then ran for these same variables but with the data split between Northern and Southern hemispheres. 
 
 A [heatmap](https://github.com/lmfao415/Python-API-Challenge/tree/main/VacationPy/heatmaps) is made in the [VactionPy](https://github.com/lmfao415/Python-API-Challenge/tree/main/VacationPy) section showing the humidities around the world.
