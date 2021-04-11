@@ -13,7 +13,11 @@ Latitude vs. Wind Speed,
 For example, here is the plot showing temperature versus latitude:
 
 ![sample](https://github.com/lmfao415/Python-API-Challenge/blob/main/WeatherPy/output_data/Lat_vs_Temp.png?raw=true) 
+
 Linear regression was then ran for these same variables but with the data split between Northern and Southern hemispheres. 
+Shown here is the temperature by latitude for the Northern hemisphere:
+
+![sample](https://github.com/lmfao415/Python-API-Challenge/blob/main/WeatherPy/output_data/NorthLat_vs_Temp.png?raw=true)
 
 A [heatmap](https://github.com/lmfao415/Python-API-Challenge/tree/main/VacationPy/heatmaps) is made in the [VactionPy](https://github.com/lmfao415/Python-API-Challenge/tree/main/VacationPy) section showing the humidities around the world.
 A susbset is then made of cities with desirable conditions to visit, and these cities with hotels are plotted on the heatmap
