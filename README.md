@@ -1,4 +1,4 @@
-# api-challenge
+# API Weather Analysis
 
 This analysis uses the citipy library to create a random selection of 500+ cities from all around the world.
 
