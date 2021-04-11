@@ -1,6 +1,6 @@
 # API Weather Analysis
 
-This analysis uses the citipy library to create a random selection of 500+ cities from all around the world.
+This analysis uses the Citipy library to create a random selection of 500+ cities from all around the world.
 
 Using this selection of cities, WeatherMap open API is then used to grab weather data for each of the cities in the [WeatherPy](https://github.com/lmfao415/Python-API-Challenge/tree/main/WeatherPy) part of the analysis. This whole process can be seen in the WeatherPy [Jupyter Notebook](https://github.com/lmfao415/Python-API-Challenge/blob/main/WeatherPy/WeatherPy.ipynb). 
 
