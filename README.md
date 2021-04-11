@@ -26,7 +26,7 @@ The first map simply shows global humidity:
 ![sample](https://github.com/lmfao415/Python-API-Challenge/blob/main/VacationPy/heatmaps/humiditymap.png?raw=true)
 
 
-A susbset of cities with desirable conditions for a vacation is made, and these cities with hotels are plotted on the heatmap to show possible vacation locales:
+While the notebook creates a susbset of cities with desirable vacation weather conditions, and these cities with hotels are plotted on the heatmap to show possible vacation destinations:
 
 ![sample](https://github.com/lmfao415/Python-API-Challenge/blob/main/VacationPy/heatmaps/hotelmap.png?raw=true)
 
