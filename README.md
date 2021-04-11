@@ -2,9 +2,9 @@
 
 This analysis uses the citipy library to create a random selection of 500+ cities from all around the world.
 
-Using this selection of cities, WeatherMap open API is then used to grab weather data for each of the cities in the [WeatherPy](https://github.com/lmfao415/Python-API-Challenge/tree/main/WeatherPy) part of the analysis.
+Using this selection of cities, WeatherMap open API is then used to grab weather data for each of the cities in the [WeatherPy](https://github.com/lmfao415/Python-API-Challenge/tree/main/WeatherPy) part of the analysis. This whole process can be seen in the [WeatherPy](https://github.com/lmfao415/Python-API-Challenge/blob/main/WeatherPy/WeatherPy.ipynb) Jupyter Notebook.
 
-Plots in the [output_data](https://github.com/lmfao415/Python-API-Challenge/tree/main/WeatherPy/output_data) folder were then made to compare the latitude versus the different weather conditions at each location:
+The WeatherPy notebook additionally creates plots in the [output_data](https://github.com/lmfao415/Python-API-Challenge/tree/main/WeatherPy/output_data) folder to compare latitude versus the different weather conditions at each location:
 Latitude vs. Temperature,
 Latitude vs. Humidity,
 Latitude vs. Cloudiness,
