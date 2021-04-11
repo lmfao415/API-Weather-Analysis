@@ -19,6 +19,14 @@ Shown here is the temperature by latitude for the Northern hemisphere:
 
 ![sample](https://github.com/lmfao415/Python-API-Challenge/blob/main/WeatherPy/output_data/NorthLat_vs_Temp.png?raw=true)
 
-Subsequently, in the [VactionPy](https://github.com/lmfao415/Python-API-Challenge/tree/main/VacationPy) section, [heatmaps(https://github.com/lmfao415/Python-API-Challenge/tree/main/VacationPy/heatmaps) are mased on global humidity data gathered in the WeatherPy process.
+Subsequently, in the [VactionPy](https://github.com/lmfao415/Python-API-Challenge/tree/main/VacationPy) folder, [heatmaps](https://github.com/lmfao415/Python-API-Challenge/tree/main/VacationPy/heatmaps) are made based on global humidity data gathered in the WeatherPy process. This process can be seen in the VacationPy [Notebook](https://github.com/lmfao415/Python-API-Challenge/blob/main/VacationPy/VacationPy.ipynb).
 
-A susbset is then made of cities with desirable conditions to visit, and these cities with hotels are plotted on the heatmap
+The first map simply shows global humidity:
+
+![sample](https://github.com/lmfao415/Python-API-Challenge/blob/main/VacationPy/heatmaps/humiditymap.png?raw=true)
+
+
+A susbset of cities with desirable conditions for a vacation is made, and these cities with hotels are plotted on the heatmap to show possible vacation locales:
+
+![sample](https://github.com/lmfao415/Python-API-Challenge/blob/main/VacationPy/heatmaps/hotelmap.png?raw=true)
+
